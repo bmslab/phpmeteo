@@ -82,7 +82,7 @@ $lang['ad_unit_code'] = 'Ad unit code';
 $lang['weather_api_key'] = 'API Key';
 $lang['weather_location'] = 'Default Location';
 $lang['weather_format'] = 'Default Format';
-$lang['weather_geo_location'] = 'Enable Geolocation';
+$lang['weather_geo_location'] = 'Geolocation';
 $lang['weather_forecast_days'] = 'Forecast days (0-5)';
 $lang['weather_latest'] = 'Latest Searches';
 
@@ -101,7 +101,7 @@ $lang['all_rights_reserved'] = 'All rights reserved.';
 $lang['powered_by'] = 'Powered by %s.';
 
 // Error
-$lang['no_results_found'] = 'No results found for %s';
+$lang['no_results_found'] = 'No results found for %s.';
 $lang['suggestions'] = 'Suggestions:';
 $lang['suggestion_1'] = 'Try searching the city name and country code.';
 $lang['suggestion_2'] = 'Try searching the city and country name.';
