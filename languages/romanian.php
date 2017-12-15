@@ -79,7 +79,7 @@ $lang['ads_2'] = 'Prima pagină (Mijloc)';
 $lang['ads_3'] = 'Prima pagină (Jos)';
 $lang['ad_unit_code'] = 'Cod unitate reclamă';
 
-$lang['weather_api_key'] = 'Cheie API';
+$lang['weather_api_key'] = 'Cheia API';
 $lang['weather_location'] = 'Locația predefinită';
 $lang['weather_format'] = 'Formatul predefinit';
 $lang['weather_geo_location'] = 'Geolocație';
