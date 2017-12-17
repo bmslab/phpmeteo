@@ -11,6 +11,7 @@ $url = 'http://phpmeteo.com';
 // Language Direction
 $direction = 'ltr';
 
+$lang['info'] = 'Info';
 $lang['themes'] = 'Themes';
 $lang['language'] = 'Language';
 $lang['languages'] = 'Languages';
