@@ -132,6 +132,8 @@ $lang['saturday'] = 'Saturday';
 $lang['sunday'] = 'Sunday';
 $lang['favorites'] = 'Favorites';
 $lang['weather_forecast_evolution'] = 'Weather Forecast Evolution';
+$lang['sunrise'] = 'Sunrise';
+$lang['sunset'] = 'Sunset';
 
 $lang['f'] = 'F';
 $lang['c'] = 'C';

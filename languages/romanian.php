@@ -132,6 +132,8 @@ $lang['saturday'] = 'Sâmbătă';
 $lang['sunday'] = 'Duminică';
 $lang['favorites'] = 'Favorite';
 $lang['weather_forecast_evolution'] = 'Evoluție Prognoză Vreme';
+$lang['sunrise'] = 'Răsărit';
+$lang['sunset'] = 'Apus';
 
 $lang['f'] = 'F';
 $lang['c'] = 'C';
