@@ -134,6 +134,7 @@ $lang['favorites'] = 'Favorite';
 $lang['weather_forecast_evolution'] = 'Evoluție Prognoză Vreme';
 $lang['sunrise'] = 'Răsărit';
 $lang['sunset'] = 'Apus';
+$lang['timezone'] = 'Fus orar: GMT%s';
 
 $lang['f'] = 'F';
 $lang['c'] = 'C';

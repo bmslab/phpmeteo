@@ -134,6 +134,7 @@ $lang['favorites'] = 'Favorites';
 $lang['weather_forecast_evolution'] = 'Weather Forecast Evolution';
 $lang['sunrise'] = 'Sunrise';
 $lang['sunset'] = 'Sunset';
+$lang['timezone'] = 'Timezone: GMT%s';
 
 $lang['f'] = 'F';
 $lang['c'] = 'C';
