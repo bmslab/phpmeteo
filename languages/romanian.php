@@ -47,6 +47,7 @@ $lang['on'] = 'On';
 $lang['dashboard'] = 'Panou Control';
 $lang['site_title'] = 'Titlu site';
 $lang['site_logo'] = 'Logo site';
+$lang['timezone'] = 'Fur orar';
 $lang['tracking_code'] = 'Cod de monitorizare';
 $lang['current_password'] = 'Parolă actuală';
 $lang['new_password'] = 'Noua parolă';
@@ -142,7 +143,7 @@ $lang['sunrise'] = 'Răsărit';
 $lang['sunset'] = 'Apus';
 $lang['latitude'] = 'Latitudine';
 $lang['longitude'] = 'Longitudine';
-$lang['timezone'] = 'Fus orar: GMT%s';
+$lang['timezone_gmt'] = 'Fus orar: GMT%s';
 
 $lang['f'] = 'F';
 $lang['c'] = 'C';

@@ -47,6 +47,7 @@ $lang['on'] = 'An';
 $lang['dashboard'] = 'Dashboard';
 $lang['site_title'] = 'Seiten Titel';
 $lang['site_logo'] = 'Seiten Logo';
+$lang['timezone'] = 'Zeitzone';
 $lang['tracking_code'] = 'Tracking Code';
 $lang['current_password'] = 'Aktuelles Passwort';
 $lang['new_password'] = 'Neues Passwort';
@@ -142,7 +143,7 @@ $lang['sunrise'] = 'Sonnenaufgang';
 $lang['sunset'] = 'Sonnenuntergang';
 $lang['latitude'] = 'Breitengrad';
 $lang['longitude'] = 'Längengrad';
-$lang['timezone'] = 'Zeitzone: GMT%s';
+$lang['timezone_gmt'] = 'Zeitzone: GMT%s';
 
 $lang['f'] = 'F';
 $lang['c'] = 'C';
