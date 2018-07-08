@@ -87,6 +87,7 @@ $lang['weather_format'] = 'Default Format';
 $lang['weather_geo_location'] = 'Geolocation';
 $lang['weather_forecast_days'] = 'Forecast days (1-5)';
 $lang['weather_latest'] = 'Latest Searches';
+$lang['searches_per_ip'] = 'Searches / IP';
 
 // Home
 $lang['preferences'] = 'Preferences';
@@ -103,6 +104,7 @@ $lang['all_rights_reserved'] = 'All rights reserved.';
 $lang['powered_by'] = 'Powered by %s.';
 
 // Error
+$lang['search_l_e'] = 'You\'ve exceeded the daily search limit, try again tomorrow.';
 $lang['no_results_found'] = 'No results found for %s.';
 $lang['suggestions'] = 'Suggestions:';
 $lang['suggestion_1'] = 'Try searching the city name and country code.';

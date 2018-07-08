@@ -87,6 +87,7 @@ $lang['weather_format'] = 'Formatul predefinit';
 $lang['weather_geo_location'] = 'Geolocație';
 $lang['weather_forecast_days'] = 'Prognoză zile (1-5)';
 $lang['weather_latest'] = 'Ultimele căutări';
+$lang['searches_per_ip'] = 'Căutări / IP';
 
 // Home
 $lang['preferences'] = 'Preferințe';
@@ -103,6 +104,7 @@ $lang['all_rights_reserved'] = 'Toate drepturile de rezervate.';
 $lang['powered_by'] = 'Powered by %s.';
 
 // Error
+$lang['search_l_e'] = 'Ai depășit limita zilnică de căutări, încearcă din nou mâine.';
 $lang['no_results_found'] = 'Nu au fost găsite rezultate pentru %s.';
 $lang['suggestions'] = 'Sugestii:';
 $lang['suggestion_1'] = 'Încearcă să cauți numele orașului și codul tării.';
