@@ -9,7 +9,7 @@ $author = 'phpMeteo';
 $url = 'http://phpmeteo.com';
 
 // Language Direction
-$direction = 'ltr';
+$lang['lang_dir'] = 'ltr';
 
 $lang['info'] = 'Info';
 $lang['themes'] = 'Themes';
@@ -19,7 +19,6 @@ $lang['languages'] = 'Languages';
 // Admin Panel
 $lang['admin'] = 'Admin';
 $lang['general'] = 'General';
-$lang['password'] = 'Password';
 $lang['info_pages'] = 'Info Pages';
 $lang['username'] = 'Username';
 $lang['password'] = 'Password';
@@ -47,6 +46,7 @@ $lang['on'] = 'On';
 $lang['dashboard'] = 'Dashboard';
 $lang['site_title'] = 'Site title';
 $lang['site_logo'] = 'Site logo';
+$lang['site_favicon'] = 'Site favicon';
 $lang['timezone'] = 'Timezone';
 $lang['tracking_code'] = 'Tracking code';
 $lang['current_password'] = 'Current password';
@@ -94,14 +94,13 @@ $lang['preferences'] = 'Preferences';
 
 // Preferences
 $lang['theme'] = 'Theme';
-$lang['dark_mode'] = 'Enable dark mode';
+$lang['dark_mode'] = 'Dark mode';
 $lang['site_language'] = 'Site language';
 
 // Misc
 $lang['token_mismatch'] = 'Token mismatch';
-$lang['copyright'] = 'Copyright &copy; %s %s.';
-$lang['all_rights_reserved'] = 'All rights reserved.';
-$lang['powered_by'] = 'Powered by %s.';
+$lang['copyright'] = '&copy; %s %s';
+$lang['powered_by'] = 'Powered by %s';
 
 // Error
 $lang['search_l_e'] = 'You\'ve exceeded the daily search limit, try again tomorrow.';

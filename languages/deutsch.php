@@ -9,7 +9,7 @@ $author = 'MeinWetter';
 $url = 'http://meinwetter.info';
 
 // Language Direction
-$direction = 'ltr';
+$lang['lang_dir'] = 'ltr';
 
 $lang['info'] = 'Info';
 $lang['themes'] = 'Themen';
@@ -19,12 +19,11 @@ $lang['languages'] = 'Sprachen';
 // Admin Panel
 $lang['admin'] = 'Admin';
 $lang['general'] = 'Allgemein';
-$lang['password'] = 'Passwort';
 $lang['info_pages'] = 'Info Seiten';
 $lang['username'] = 'Benutzername';
 $lang['password'] = 'Passwort';
-$lang['login'] = 'Login';
-$lang['logout'] = 'Logout';
+$lang['login'] = 'Anmeldung';
+$lang['logout'] = 'Abmelden';
 $lang['save'] = 'Speichern';
 $lang['remember_me'] = 'Login merken';
 $lang['recover'] = 'Wiederherstellen';
@@ -44,11 +43,12 @@ $lang['no'] = 'Nein';
 $lang['off'] = 'Aus';
 $lang['on'] = 'An';
 
-$lang['dashboard'] = 'Dashboard';
+$lang['dashboard'] = 'Instrumententafel';
 $lang['site_title'] = 'Seiten Titel';
 $lang['site_logo'] = 'Seiten Logo';
+$lang['site_favicon'] = 'Seiten Favicon';
 $lang['timezone'] = 'Zeitzone';
-$lang['tracking_code'] = 'Tracking Code';
+$lang['tracking_code'] = 'Verfolgungscode';
 $lang['current_password'] = 'Aktuelles Passwort';
 $lang['new_password'] = 'Neues Passwort';
 $lang['confirm_new_password'] = 'Neues Passwort bestätigen';
@@ -75,11 +75,11 @@ $lang['useful_links'] = 'Nützliche Links';
 $lang['get_more_themes'] = 'Erhalte mehr Themen';
 $lang['get_more_languages'] = 'Erhalte mehr Sprachen';
 
-$lang['ads'] = 'Werbung';
-$lang['ads_1'] = 'Home Page (Oben)';
-$lang['ads_2'] = 'Home Page (Mitte)';
-$lang['ads_3'] = 'Home Page (Unten)';
-$lang['ad_unit_code'] = 'Code der Werbung';
+$lang['ads'] = 'Anzeigen';
+$lang['ads_1'] = 'Startseite (Oben)';
+$lang['ads_2'] = 'Startseite (Mitte)';
+$lang['ads_3'] = 'Startseite (Unten)';
+$lang['ad_unit_code'] = 'Anzeigenblockcode';
 
 $lang['weather_api_key'] = 'API Schlüssel';
 $lang['weather_location'] = 'Standard Region';
@@ -87,22 +87,23 @@ $lang['weather_format'] = 'Standard Format';
 $lang['weather_geo_location'] = 'Geolocation';
 $lang['weather_forecast_days'] = 'Wetterprognose in Tagen (0-5)';
 $lang['weather_latest'] = 'Letzte Suchen';
+$lang['searches_per_ip'] = 'Suchen / IP';
 
 // Home
 $lang['preferences'] = 'Einstellungen';
 
 // Preferences
 $lang['theme'] = 'Thema';
-$lang['dark_mode'] = 'Aktiviere dunkles Thema';
-$lang['site_language'] = 'Sprache';
+$lang['dark_mode'] = 'Dunkler Modus';
+$lang['site_language'] = 'Sprache der Site';
 
 // Misc
 $lang['token_mismatch'] = 'Token fehlerhaft';
-$lang['copyright'] = 'Copyright &copy; %s %s.';
-$lang['all_rights_reserved'] = 'Alle Rechte vorbehalten';
-$lang['powered_by'] = 'Powered by %s.';
+$lang['copyright'] = '&copy; %s %s';
+$lang['powered_by'] = 'Powered by %s';
 
 // Error
+$lang['search_l_e'] = 'Sie haben das tägliche Suchlimit überschritten. Versuchen Sie es morgen erneut.';
 $lang['no_results_found'] = 'Keine Ergebnisse gefunden für %s.';
 $lang['suggestions'] = 'Vorschläge:';
 $lang['suggestion_1'] = 'Versuche den Ort mit dem Ländercode zu suchen (z.B. DE, UK, FR usw.)';
