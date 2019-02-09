@@ -6,7 +6,7 @@ $name = 'Français';
 $author = 'VXO METEO';
 
 // Language URL
-$url = 'http://meteo.vxo.fr';
+$url = 'https://meteo.vxo.fr';
 
 // Language Direction
 $lang['lang_dir'] = 'ltr';

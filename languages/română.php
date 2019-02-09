@@ -6,7 +6,7 @@ $name = 'Română';
 $author = 'phpMeteo';
 
 // Language URL
-$url = 'http://phpmeteo.com';
+$url = 'https://phpmeteo.com';
 
 // Language Direction
 $lang['lang_dir'] = 'ltr';

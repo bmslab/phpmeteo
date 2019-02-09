@@ -6,7 +6,7 @@ $name = 'Deutsch';
 $author = 'MeinWetter';
 
 // Language URL
-$url = 'http://meinwetter.info';
+$url = 'https://meinwetter.info';
 
 // Language Direction
 $lang['lang_dir'] = 'ltr';
