@@ -101,6 +101,7 @@ $lang['site_language'] = 'Site language';
 $lang['token_mismatch'] = 'Token mismatch';
 $lang['copyright'] = '&copy; %s %s';
 $lang['powered_by'] = 'Powered by %s';
+$lang['ellipsis'] = '...';
 
 // Error
 $lang['search_l_e'] = 'You\'ve exceeded the daily search limit, try again tomorrow.';

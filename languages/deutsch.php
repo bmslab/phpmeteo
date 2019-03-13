@@ -101,6 +101,7 @@ $lang['site_language'] = 'Sprache der Site';
 $lang['token_mismatch'] = 'Token fehlerhaft';
 $lang['copyright'] = '&copy; %s %s';
 $lang['powered_by'] = 'Powered by %s';
+$lang['ellipsis'] = '...';
 
 // Error
 $lang['search_l_e'] = 'Sie haben das tägliche Suchlimit überschritten. Versuchen Sie es morgen erneut.';

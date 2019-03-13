@@ -101,6 +101,7 @@ $lang['site_language'] = 'Limbă site';
 $lang['token_mismatch'] = 'Token invalid';
 $lang['copyright'] = '&copy; %s %s';
 $lang['powered_by'] = 'Powered by %s';
+$lang['ellipsis'] = '...';
 
 // Error
 $lang['search_l_e'] = 'Ai depășit limita zilnică de căutări, încearcă din nou mâine.';
